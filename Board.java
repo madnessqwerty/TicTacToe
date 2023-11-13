@@ -1,5 +1,3 @@
-package op02;
-
 public class Board {
     private int[] progress;
     public static char[][] board = {
