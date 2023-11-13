@@ -1,12 +1,3 @@
-package op02;
-
-/**
- * Abstract class for standard 2-player board games.
- * 
- * @author Henning Dierks
- * @version 1.0
- */
-
 public abstract class Game {
   private Board board;
 
