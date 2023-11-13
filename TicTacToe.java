@@ -1,4 +1,3 @@
-package op02;
 import java.io.*; 
 
 public class TicTacToe extends Game{
